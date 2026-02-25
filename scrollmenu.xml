@@ -37,7 +37,7 @@
         bgcolor="0xFFFFFF" bgalpha="0.6"
         zorder="2"
         >
-        <layer name="logo_menu" url="images/logo.png" keep="true" visible="true" align="lefttop" x="40" y="0" zorder="15"
+        <layer name="logo_menu" url="images/Logo.png" keep="true" visible="true" align="lefttop" x="40" y="0" zorder="15"
             width="200"
             height="100"
             bgcolor="0xFFFFFF" bgalpha="0.6"
